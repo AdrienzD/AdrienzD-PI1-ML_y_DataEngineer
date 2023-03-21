@@ -8,7 +8,7 @@
 
 
 
-## **INTRODUCCIÓN**
+# **INTRODUCCIÓN**
 
 
 Para dar una idea al lector, voy a comentar antes de comenzar el desarrollo del proyecto algunas de las pautas de inicio del mismo.
@@ -41,7 +41,7 @@ Se observan los archivos que hay en la carpeta Datasets, y se decide trazar la r
 En resumen los pasos son a grandes rasgos: ETL-API-EDA-MODELO MACHINE LEARNING- DEPLOYS.
 
 
-### ETL
+# ETL
 
 
 El el proceso que consta de tres etapas: Extracciónn (Extraction), Transformación (Transformation) y Carga (Load). Ahora lo voy utilizar para mover y transformar datos desde su origen original a una ubicación donde puedan ser analizados y luego utilizados para una aplicación de Machine Learning con la que se busca dar solución al problema.
@@ -60,7 +60,7 @@ De cara a la siguientes etapas, determino el campo *'scored'* resultante del cal
 1.  El proceso se llevó a cabo de acuerdo a las especificaciones de la empresa, se encuentre [AQUÍ](https://github.com/AdrienzD/ML_y_DataEngineer/blob/main/ETL.ipynb) 
 
   
-### API
+# API
 
 
 Usando la herramienta **FastAPI** se crea una API, que básicamente es un interfaz de programación de aplicaciones, para una experiencia más visual de código de Python. Esta es una opción popular para construir APIs rápidas y escalables en Python, por eso manos a la obra con ella.
@@ -88,7 +88,7 @@ La API, sera usada para disponibilizar la información de la empresa y hacer con
   
   - **Ingreso al [main](https://github.com/AdrienzD/ML_y_DataEngineer/blob/main/main.py) de la Api **
 
-### EDA
+# EDA
 
 
 "Exploratory Data Analysis" o "Análisis Exploratorio de Datos" en español. Es un proceso clave en el desarrollo de modelos de Machine Learning ya que ayuda a comprender mejor los datos que se utilizarán para entrenar y validar el modelo.
@@ -105,7 +105,7 @@ Debido a la cantidad de registros con los que cuento y los recursos que poseo, d
   ## **ADJUNTO**
   - Archivo [EDA](https://github.com/AdrienzD/ML_y_DataEngineer/blob/main/EDA.ipynb)
  
-  ### MACHINE LEARNING
+# MACHINE LEARNING
 
 
 El fin último de este trabajo era lograr desarrollar un modelo que realice predicciones sobre si a un usuario en particular le va a gustar o no una película por su título.
@@ -128,5 +128,6 @@ Para corroborar aplico métricas de desempeño tales como son el error cuadráti
 Conforme con los resultados obtenidos, guardo mi modelo en una variable, que luego me servirá para usar en una función.
   
   ## **ADJUNTO MODELO EN LOCAL**
+	
   - Archivo [Machine_Learning](https://github.com/AdrienzD/ML_y_DataEngineer/blob/main/Modelo_ML_sugerenc.ipynb)
   
