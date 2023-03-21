@@ -86,7 +86,7 @@ La API, sera usada para disponibilizar la información de la empresa y hacer con
   
   En dicho enlace podremos hacer las consultas, dandole click a Try it out. y rellenando los cuadros que nos mencionan.
   
-  - **Ingreso al [main](https://github.com/AdrienzD/ML_y_DataEngineer/blob/main/main.py)) de la Api **
+  - **Ingreso al [main](https://github.com/AdrienzD/ML_y_DataEngineer/blob/main/main.py) de la Api **
 
 ### EDA
 
