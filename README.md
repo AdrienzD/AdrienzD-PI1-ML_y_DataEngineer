@@ -57,7 +57,7 @@ De cara a la siguientes etapas, determino el campo *'scored'* resultante del cal
 
 ## **DESARROLLO**
   
-1.  El proceso se llevó a cabo de acuerdo a las especificaciones de la empresa, [ETL](https://github.com/AdrienzD/ML_y_DataEngineer/blob/main/ETL.ipynb) 
+1.  El proceso se llevó a cabo de acuerdo a las especificaciones de la empresa, se encuentre [AQUÍ](https://github.com/AdrienzD/ML_y_DataEngineer/blob/main/ETL.ipynb) 
 
   
 ### API
